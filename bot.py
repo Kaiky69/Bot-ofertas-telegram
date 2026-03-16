@@ -35,6 +35,6 @@ mensagem = f"""
 """
 
 requests.post(
-f"https://api.telegram.org/bot{TOKEN}/sendMessage",
-data={"chat_id": CHAT_ID, "text": mensagem}
+f"https://api.telegram.org/bot{8540004525:AAGQTirxzKJLYssGqZl9kqxTAs23XY9mh18}/sendMessage",
+data={"chat_id": -1003551593842, "text": mensagem}
 )
