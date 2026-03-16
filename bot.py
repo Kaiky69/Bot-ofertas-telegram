@@ -1,8 +1,8 @@
 import requests
 import random
 
-TOKEN = "SEU_TOKEN"
-CHAT_ID = "SEU_CANAL_ID"
+TOKEN = "8540004525:AAGQTirxzKJLYssGqZl9kqxTAs23XY9mh18"
+CHAT_ID = "-1003551593842"
 
 buscas = [
 "fone bluetooth",
